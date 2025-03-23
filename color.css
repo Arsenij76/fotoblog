@@ -1,0 +1,9 @@
+:root{
+    --accent-color: #03a9f4;
+    --text-color: #626262;
+    --pre-title-color: #B4AD9E;
+}
+
+Body{
+    color:var(--text-color)
+}
