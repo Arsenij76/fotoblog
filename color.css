@@ -7,3 +7,12 @@
 Body{
     color:var(--text-color)
 }
+.container {
+    width: 936px;
+    margin: 0 auto;
+    padding: 0 15px;
+    outline: solid fuchsia;
+}
+.invisible {
+    display: none;
+}
